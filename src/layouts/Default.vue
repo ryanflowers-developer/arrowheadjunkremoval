@@ -1,25 +1,22 @@
 <template>
-    <v-app style="background-color: #333333;">
-      <Navbar />
-      <slot />
-    </v-app>
+  <v-app style="background-color: #2b2f31;">
+    <Navbar />
+    <slot />
+  </v-app>
 </template>
 
-
 <script>
-import Navbar from '~/components/Navbar.vue';
+import Navbar from "~/components/Navbar.vue";
 
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: "Hello, world!",
   },
   components: {
-    Navbar
-  }
-
-}
+    Navbar,
+  },
+};
 </script>
-
 
 <static-query>
 query {
@@ -31,9 +28,10 @@ query {
 
 <style>
 body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
-  padding:0;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
   line-height: 1.5;
 }
 
