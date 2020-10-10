@@ -2,7 +2,7 @@
   <div>
     <v-row class="align-center">
       <v-col cols="10" offset="1" md="5" offset-md="1">
-          <v-img  width="auto" style="height: 550px;" src="https://i.imgur.com/0CEsoam.jpg"></v-img>
+          <v-img src="https://i.imgur.com/0CEsoam.jpg?1"></v-img>
       </v-col>
       <v-col cols="10" offset="1" md="5" offset-md="0">
         <v-card>

@@ -1,6 +1,6 @@
 <template>
-  <v-row>
-    <v-col class="text-center" cols="10" offset="1" lg="3" offset-lg="3">
+  <v-row class="align-center">
+    <v-col class="text-center" cols="10" offset="1" lg="4" offset-lg="2">
       <v-card class="pa-1">
         <h2
           cols="12"
@@ -17,8 +17,8 @@
         </p>
       </v-card>
     </v-col>
-    <v-col cols="10" offset="1" lg="3" offset-lg="0">
-      <v-img src="https://i.imgur.com/ImtVmrg.jpg"></v-img>
+    <v-col cols="10" offset="1" lg="4" offset-lg="0">
+      <v-img width="auto" src="https://i.imgur.com/ImtVmrg.jpg"></v-img>
     </v-col>
   </v-row>
 </template>

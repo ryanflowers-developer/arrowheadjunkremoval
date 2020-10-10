@@ -6,7 +6,7 @@
       </v-col>
     </v-row>
     <v-row>
-      <v-col cols="10" offset="1" md="8" offset-md ="2">
+      <v-col cols="10" offset="1" md="10" offset-md="1">
         <LeadText />
       </v-col>
     </v-row>
@@ -16,8 +16,8 @@
       </v-col>
     </v-row>
     <br>
-    <v-row>
-      <v-col >
+    <v-row >
+      <v-col>
         <Services />
       </v-col>
     </v-row>
