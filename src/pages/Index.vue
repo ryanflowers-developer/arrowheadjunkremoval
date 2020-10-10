@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <v-row>
-      <v-col cols="12" md="8" offset-md="2" lg="6" offset-lg="3">
+      <v-col cols="12" md="8" offset-md="2" lg="4" offset-lg="4">
         <Carousel />
       </v-col>
     </v-row>
