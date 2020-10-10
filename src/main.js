@@ -15,6 +15,11 @@ export default function (Vue, { appOptions, head }) {
     rel: 'stylesheet',
     href: 'https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900',
   });
+
+  head.meta.push({
+    name: 'keywords',
+    content: 'Junk, Hauling, Michigan, Junk Removal, Junk Service, Trash Removal, Central Michigan, Mid Michigan, Trash, Rubbish, Refuse'
+  })
   
   // const opts = { ... } //opts includes, vuetify themes, icons, etc.
   Vue.use(Vuetify)

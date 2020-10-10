@@ -5,6 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Arrowhead Hauling and Junk Removal',
-  plugins: []
+  siteName: 'Arrowhead Hauling and Junk Removal LLC',
+  plugins: [],
+  titleTemplate: '%s - Arrowhead Junk Removal'
 }

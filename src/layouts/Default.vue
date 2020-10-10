@@ -1,5 +1,5 @@
 <template>
-  <v-app style="background-color: #2b2f31;">
+  <v-app>
     <Navbar />
     <slot />
   </v-app>
@@ -10,7 +10,7 @@ import Navbar from "~/components/Navbar.vue";
 
 export default {
   metaInfo: {
-    title: "Hello, world!",
+    title: "Home",
   },
   components: {
     Navbar,
@@ -33,6 +33,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.5;
+  overflow-x: hidden;
 }
 
 .layout {
