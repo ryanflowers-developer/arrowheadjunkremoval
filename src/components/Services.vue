@@ -20,7 +20,8 @@
                 <v-list-item>Attic and Basement Cleanouts</v-list-item>
                 <v-list-item>Storage Unit Cleanouts</v-list-item>
                 <v-list-item>Hoarder House Cleanouts</v-list-item>
-                <v-list-item>Construction Site Clean Up's</v-list-item>
+                <v-list-item>Construction Site Clean Ups</v-list-item>
+                <v-list-item>And much, much more!</v-list-item>
               </v-list>
             </v-col>
           </v-row>

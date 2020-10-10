@@ -15,7 +15,6 @@
         <Parallax />
       </v-col>
     </v-row>
-    <br>
     <v-row >
       <v-col>
         <Services />

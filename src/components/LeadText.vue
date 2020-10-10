@@ -7,7 +7,7 @@
       <p class="inner-text">For a free estimate call</p>
       <h2 id="number">1(989) 388-1697</h2>
         <v-row justify="center">
-            <v-col cols="8" >
+            <v-col cols="12" md="8" >
                 <v-img src="https://i.imgur.com/NpPvThz.png"></v-img>
 
             </v-col>
