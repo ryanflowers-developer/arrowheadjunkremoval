@@ -18,7 +18,7 @@ export default function (Vue, { appOptions, head }) {
 
   head.meta.push({
     name: 'keywords',
-    content: 'Junk, Hauling, Michigan, Junk Removal, Junk Service, Trash Removal, Central Michigan, Mid Michigan, Trash, Rubbish, Refuse'
+    content: 'Arrowhead, Junk, Hauling, Michigan, Junk Removal, Junk Service, Trash Removal, Central Michigan, Mid-Michigan, Michigan, Trash, Rubbish, Refuse'
   })
   
   // const opts = { ... } //opts includes, vuetify themes, icons, etc.

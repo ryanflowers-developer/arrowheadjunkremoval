@@ -8,7 +8,7 @@
           Why we do it!
         </h2>
         <p class="pa-4">
-          Arrowhead Hauling and Junk Removal is a family owned and operated
+          Arrowhead Hauling & Junk Removal is a family owned and operated
           business serving Central Michigan. Founded by a retired factory worker
           for the purpose of teaching his grandkids the values and satisfaction
           of honest, hard work; to instill integrity and a good work ethic into
@@ -32,6 +32,6 @@ p {
   font-family: Myriad Pro, Arial, Helvetica, sans-serif;
   font-size: 18px;
   color: #000000;
-  text-align: left;
+
 }
 </style>
