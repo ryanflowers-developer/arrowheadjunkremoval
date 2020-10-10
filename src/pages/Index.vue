@@ -1,12 +1,12 @@
 <template>
   <Layout>
     <v-row>
-      <v-col cols="12" md="8" offset-md="2">
+      <v-col cols="12" md="8" offset-md="2" lg="6" offset-lg="3">
         <Carousel />
       </v-col>
     </v-row>
     <v-row>
-      <v-col cols="10" offset="1" md="10" offset-md="1">
+      <v-col cols="10" offset="1" md="8" offset-md="2">
         <LeadText />
       </v-col>
     </v-row>

@@ -1,10 +1,10 @@
 <template>
   <div>
     <v-row class="align-center">
-      <v-col cols="10" offset="1" md="5" offset-md="1">
+      <v-col cols="10" offset="1" md="4" offset-md="2">
           <v-img src="https://i.imgur.com/0CEsoam.jpg?1"></v-img>
       </v-col>
-      <v-col cols="10" offset="1" md="5" offset-md="0">
+      <v-col cols="10" offset="1" md="4" offset-md="0">
         <v-card>
           <v-row class="text-center">
             <v-col>

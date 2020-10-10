@@ -8,7 +8,7 @@
       
 
       </div>
-    <v-carousel height="auto" cycle hide-delimiter-background show-arrows-on-hover>
+    <v-carousel height="450px" cycle hide-delimiter-background show-arrows-on-hover>
       <v-carousel-item v-for="image in images" :key="image">
         <v-img :src="image"></v-img>
       </v-carousel-item>
